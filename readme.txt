@@ -3,7 +3,7 @@ Se han generado los certificados para las siguientes aplicaciones:
 1.- Arahal
 2.- Generica
 3.- Cataluña
-4.- Cordoba
+4.- Córdoba
 5.- Granada
 6.- Penedes
 7.- Subirats
